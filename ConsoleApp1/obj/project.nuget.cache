@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u56OTMvIWEk=",
+  "success": true,
+  "projectFilePath": "/Users/FilipKasprzak/RiderProjects/rsaaaa/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/FilipKasprzak/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/FilipKasprzak/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/FilipKasprzak/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.12/microsoft.netcore.app.host.osx-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
